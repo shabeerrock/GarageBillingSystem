@@ -1,3 +1,5 @@
+Use script to learn abou jdbc 
+
 use garage;
 
 CREATE TABLE CUSTOMER (
